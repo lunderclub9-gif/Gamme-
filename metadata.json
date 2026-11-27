@@ -1,0 +1,6 @@
+{
+  "name": "DroidPlay",
+  "description": "Native Android gaming console launcher, hardware controller lab, and per-game profile studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
